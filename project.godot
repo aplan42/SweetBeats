@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="SweetBeats"
-run/main_scene="res://Main Page/Main Screen.tscn"
+run/main_scene="res://Scenes/Main Screen.tscn"
 config/icon="res://icon.png"
 
 [physics]
